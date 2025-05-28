@@ -156,7 +156,7 @@ if(isset ($_SESSION['username'])){
 
 <!--close-top-serch-->
 <!--sidebar-menu-->
-<div id="sidebar"><a href="beranda.php" class="visible-phone"><i class="icon icon-home"></i> Beranda</a>
+<div id="sidebar"><a href="beranda.php" class="visible-phone"><i class="icon icon-home"></i> eranda</a>
   <ul>
   <?php
     if($r['id_level'] == 1){
