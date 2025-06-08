@@ -651,7 +651,7 @@ if(isset ($_SESSION['username'])){
             <li class="dropdown" id="profile-messages">
                 <a title="" href="#" data-toggle="dropdown" data-target="#profile-messages" class="dropdown-toggle">
                     <i class="icon icon-user"></i>
-                    <span class="text">Welcome **<?php echo $r['nama_user'];?>**</span>
+                    <span class="text">Welcome <?php echo $r['nama_user'];?></span>
                     <b class="caret"></b>
                 </a>
                 <ul class="dropdown-menu">
