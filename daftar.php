@@ -214,7 +214,7 @@
 </div>
 <!--Footer-part-->
 <div class="row-fluid">
-  <div id="footer" class="span12"> <?php echo date('Y'); ?> &copy; Restaurant <a href="#">by henscorp</a> </div>
+  <div id="footer" class="span12"> <?php echo date('Y'); ?> &copy; Warkom Restaurant <a href="#">by warkom</a> </div>
 </div>
 <!--end-Footer-part--> 
 <script src="template/dashboard/js/jquery.min.js"></script> 
