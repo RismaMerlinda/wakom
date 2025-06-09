@@ -739,7 +739,7 @@
     </div>
 </div>
 <div class="row-fluid">
-  <div id="footer" class="span12"> <?php echo date('Y'); ?> &copy; Warkom Restaurant - Modernized <a href="#">by henscorp</a> </div>
+  <div id="footer" class="span12"> <?php echo date('Y'); ?> &copy; Warkom Restaurant - Modernized <a href="#">by warkom</a> </div>
 </div>
 <script src="template/dashboard/js/excanvas.min.js"></script>
 <script src="template/dashboard/js/jquery.min.js"></script>
